@@ -21,10 +21,10 @@ Once that is done you should be able to run the game with no cursor or crosshair
 
 # Wii Shotgun Info
 
-I can't recommend enough getting a wii mote/nunchck and the big buck hunter peripheral for the wii that feels pretty close to the real guns. With the software lichtknarre and a decent 4 IR harness you can have a pretty solid arcade experience at home. As of right now you will need to reach out to them for a test build that allows for use of the nunchuck and use my remap exe (BuckHunt.exe) that maps the proper keys for nunchuck controls. You can check out Lichtkinarre at their website here: https://geekonarium.de/en/lichtknarre-lightgun/
+I can't recommend enough getting a wii mote/nunchck and the big buck hunter peripheral for the wii that feels pretty close to the real guns. With the software lichtknarre and a decent 4 IR harness you can have a pretty solid arcade experience at home for around $100 (if you can find a good deal on the shotgun attachment). As of right now you will need to reach out to them for a test build that allows for use of the nunchuck and use my remap exe (BuckHunt.exe) that maps the proper keys for nunchuck controls. You can check out Lichtkinarre at their website here: https://geekonarium.de/en/lichtknarre-lightgun/
 
 You can find the latest release for my controller remapper here: https://github.com/stefman69/BBHUTLP/releases/tag/v1.0
 
-In order to make it work you will need to install auto hotkey. you cant toggle thr hotkey off with the macro ctrl+shift+s and if the application is still open ot can be reenables in the tray by right clicking on the green H icon. I have no idea how well this will work on other computers, but I assume if you have the application installed and use my exe it will work. You can find auto hotkey here: https://www.autohotkey.com/docs/v2/
+In order to make it work you will need to install auto hotkey. You cant toggle thr hotkey off with the macro ctrl+shift+s and if the application is still open it can be reenabled in the tray by right clicking on the green H icon and removing the check next to the suspend option. I have no idea how well this will work on other computers, but I assume if you have the application installed and use my exe it will work. You can find auto hotkey here: https://www.autohotkey.com/docs/v2/
 
 Once again you will need to ask in the comments on the geekonarium site for a link to the latest test build if you want to get this working.
