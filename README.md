@@ -17,7 +17,11 @@ Once those are copied over and you have run the game once you will need to downl
 
 You can find the latest release of my patch here: https://github.com/stefman69/BBHUTLP/releases/tag/v1
 
-Once that is done you should be able to run the game with no cursor or crosshair and it will feel like a real lightgun experience. I can't recommend enough getting a wii mote/nunchck and the big buck hunter peripheral for the wii that feels pretty close to the real guns. With the software lichtknarre and a decent 4 IR harness you can have a pretty solid arcade experience at home. As of right now you will need to reach out to them for a test build that allows for use of the nunchuck and use my remap exe (BuckHunt.exe) that maps the proper keys for nunchuck controls. You can check out Lichtkinarre at their website here: https://geekonarium.de/en/lichtknarre-lightgun/
+Once that is done you should be able to run the game with no cursor or crosshair and it will feel like a real lightgun experience. One final optional step here wou;d be to duplicate or zip the files for the game, as steam will update them and there is no gaurantee that this will continue working after future updates.
+
+# Wii Shotgun Info
+
+I can't recommend enough getting a wii mote/nunchck and the big buck hunter peripheral for the wii that feels pretty close to the real guns. With the software lichtknarre and a decent 4 IR harness you can have a pretty solid arcade experience at home. As of right now you will need to reach out to them for a test build that allows for use of the nunchuck and use my remap exe (BuckHunt.exe) that maps the proper keys for nunchuck controls. You can check out Lichtkinarre at their website here: https://geekonarium.de/en/lichtknarre-lightgun/
 
 You can find the latest release for my controller remapper here: https://github.com/stefman69/BBHUTLP/releases/tag/v1.0
 
