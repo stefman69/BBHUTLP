@@ -1,5 +1,5 @@
 # BBHUTLP
-A plugin file for BepInEx that allows for removing the crosshair, cursor, and shotgun from Big Buck Hunter Ultimate Trophy on steam. 
+A plugin file for BepInEx that allows for removing the crosshair, cursor, and shotgun from Big Buck Hunter Ultimate Trophy on steam. This should be compatible with any lightgun that can emulate the mouse cursor movement and mouse buttons. If you run into issues let me know and I can try to troubleshoot.
 
 
 # Install
