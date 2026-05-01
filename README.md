@@ -15,4 +15,6 @@ Then you will want to run the game once to have BepInEx install all of it's asse
 
 Once those are copied over and you have run the game once you will need to download BBHUT Lightgun Patch.dll file from here and place it in the plugins folder of BepInEx, which should be found here: "C:\Program Files (x86)\Steam\steamapps\common\BigBuckHunter_UltimateTrophy\BepInEx\plugins"
 
+You can find the latest release of my patch here: https://github.com/stefman69/BBHUTLP/releases/tag/v1
+
 Once that is done you should be able to run the game with no cursor or crosshair and it will feel like a real lightgun experience. I can't recommend enough getting a wii mote/nunchck and the big buck hunter peripheral for the wii that feels pretty close to the real guns. With the software lichtknarre and a decent 4 IR harness you can have a pretty solid arcade experience at home. As of right now you will need to reach out to them for a test build that allows for use of the nunchuck and use my remap exe (BuckHunt.exe) that maps the proper keys for nunchuck controls. You can check out Lichtkinarre at their website here: https://geekonarium.de/en/lichtknarre-lightgun/
