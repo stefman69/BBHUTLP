@@ -13,7 +13,7 @@ Once you have that installed extract the files from the BepInEx-Unity.IL2CPP-win
 
 Then you will want to run the game once to have BepInEx install all of it's assets into the game folder.
 
-Once those are copied over and you have run the game once you will need to download BBHUT Lightgun Patch.dll file from here and place it in the plugins folder of BepInEx, which should be found here: "C:\Program Files (x86)\Steam\steamapps\common\BigBuckHunter_UltimateTrophy\BepInEx\plugins"
+Once those are copied over and you have run the game once you will need to download BBHUT Lightgun Patch.dll file from my github page and place it in the plugins folder of BepInEx, which should be found here: "C:\Program Files (x86)\Steam\steamapps\common\BigBuckHunter_UltimateTrophy\BepInEx\plugins"
 
 You can find the latest release of my patch here: https://github.com/stefman69/BBHUTLP/releases/tag/v1
 
