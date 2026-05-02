@@ -21,7 +21,7 @@ Once that is done you should be able to run the game with no cursor or crosshair
 
 # Wii Shotgun Info
 
-I can't recommend enough getting a wii mote/nunchck and the big buck hunter peripheral for the wii that feels pretty close to the real guns. With the software lichtknarre and a decent 4 IR harness you can have a pretty solid arcade experience at home for around $100 (if you can find a good deal on the shotgun attachment). As of right now you will need to reach out to them for a test build that allows for use of the nunchuck and use my remap exe (BuckHunt.exe) that maps the proper keys for nunchuck controls. You can check out Lichtkinarre at their website here: https://geekonarium.de/en/lichtknarre-lightgun/
+I can't recommend enough getting a wii mote/nunchck and the big buck hunter peripheral for the wii that feels pretty close to the real guns. With the software lichtknarre and a decent 4 IR harness you can have a pretty solid arcade experience at home for around $100 (if you can find a good deal on the shotgun attachment). As of right now you will need to reach out on the lichtknarre site for a test build that allows for use of the nunchuck and use my remap exe (BuckHunt.exe) that maps the proper keys for nunchuck controls (though they should hopefully be updating it soon). You can check out Lichtkinarre at their website here: https://geekonarium.de/en/lichtknarre-lightgun/
 
 You can find the latest release for my controller remapper here: https://github.com/stefman69/BBHUTLP/releases/tag/v1.0
 
