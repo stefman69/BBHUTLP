@@ -25,6 +25,8 @@ I can't recommend enough getting a wii mote/nunchck and the big buck hunter peri
 
 You can find the latest release for my controller remapper here: https://github.com/stefman69/BBHUTLP/releases/tag/v1.0
 
-In order to make it work you will need to install auto hotkey. You cant toggle thr hotkey off with the macro ctrl+shift+s and if the application is still open it can be reenabled by pressing ctrl+shift+e. I have no idea how well this will work on other computers, but I assume if you have the application installed and use my exe it will work. You can find auto hotkey here: https://www.autohotkey.com/docs/v2/
+Please read through the info in this release as well as there are more specifics on how to get it working there.
+
+In order to make it work you will need to install auto hotkey. You cant toggle the hotkey off with the macro ctrl+shift+s and if the application is still open it can be reenabled by pressing ctrl+shift+e. I have no idea how well this will work on other computers, but I assume if you have the application installed and use my exe it will work. You can find auto hotkey here: https://www.autohotkey.com/docs/v2/
 
 Once again you will need to ask in the comments on the geekonarium site for a link to the latest test build if you want to get this working.
