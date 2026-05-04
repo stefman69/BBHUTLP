@@ -19,6 +19,10 @@ You can find the latest release of my patch here: https://github.com/stefman69/B
 
 Once that is done you should be able to run the game with no cursor or crosshair and it will feel like a real lightgun experience. One final optional step here wou;d be to duplicate or zip the files for the game, as steam will update them and there is no gaurantee that this will continue working after future updates.
 
+If you are having issues with the graphics lagging, please try the lite version of this plugin: https://github.com/stefman69/BBHUTLP/releases/edit/v1.1_lite
+
+If you are still having issues even with lite version, feel free to put in an issue and I will do my best to fix it for you.
+
 # Wii Shotgun Info
 
 I can't recommend enough getting a wii mote/nunchck and the big buck hunter peripheral for the wii that feels pretty close to the real guns. With the software lichtknarre and a decent 4 IR harness you can have a pretty solid arcade experience at home for around $100 (if you can find a good deal on the shotgun attachment). As of right now you will need to reach out on the lichtknarre site for a test build that allows for use of the nunchuck and use my remap exe (BuckHunt.exe) that maps the proper keys for nunchuck controls (though they should hopefully be updating it soon). You can check out Lichtkinarre at their website here: https://geekonarium.de/en/lichtknarre-lightgun/
